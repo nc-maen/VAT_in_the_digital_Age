@@ -27,29 +27,29 @@ def create_companies(num_companies=5, num_goods=3, countries=None):
 
 def continue_trading_patterns(original_trades=None, start_date=None, end_date=None):
     new_trades = []
-    current_date = start_date
     timejump = datetime.timedelta(weeks=1)
-    while current_date <= end_date:
-        current_date += timejump
-        print("Extending to ", current_date)
+    repeats = 1
+    while (start_date + repeats * timejump) <= end_date:
+        print("Extending to", start_date + repeats * timejump)
         for trade in original_trades:
             if random.random() < 0.1:
                 continue  # sometimes we don't do the trade
             new_trade = copy.copy(trade)
-            new_trade['issue_dt'] += timejump
+            new_trade['issue_dt'] = trade["issue_dt"] + repeats * timejump
             q = new_trade["quantity"]
             p = new_trade["unit_price"]
-            new_trade['quantity'] = int(min(q + random.uniform(-q/4, q/4), 1)),
-            new_trade["unit_price"] = round(min(p + random.uniform(-p/3, p/3), 1),2),
-            new_trades.append(trade)
+            new_trade['quantity'] = int(max(q + random.uniform(-q/4, q/4), 1))
+            new_trade["unit_price"] = round(max(p + random.uniform(-p/3, p/3), 0.01), 2)
+            new_trades.append(new_trade)
+        repeats += 1
     return original_trades + new_trades
 
 
 if __name__ == "__main__":
     countries = ['Luxembourg', 'France', "Germany"]
-    start_date = datetime.datetime(2023, 1, 1)  # start of all companies and trades
-    burnin_end = datetime.datetime(2023, 2, 1)  # end of random trades
-    end_date = datetime.datetime(2023, 5, 9)
+    start_date = datetime.datetime(2022, 1, 1)  # start of all companies and trades
+    burnin_end = datetime.datetime(2022, 3, 1)  # end of random trades
+    end_date = datetime.datetime(2025, 5, 9)
 
     # Create random companies with input/output goods
     companies = create_companies(num_companies=50, num_goods=10, countries=countries)
@@ -57,7 +57,7 @@ if __name__ == "__main__":
     # Create random trade pattern (simulation burn-in period)
     trades = run_random_trade_simulation(
         companies,
-        num_transactions=500_000,
+        num_transactions=10_000,
         vat_rate=0.20,
         start_date=start_date,
         end_date=burnin_end,
@@ -97,6 +97,6 @@ if __name__ == "__main__":
     ]
     print(80 * "=")
     print("ViDA DRR Data")
-    print(drr[selected_columns].head())
+    print(drr[selected_columns].sample(30))
 
     drr[selected_columns].to_csv('vida_invoices_selected_columns.csv', index=False)
