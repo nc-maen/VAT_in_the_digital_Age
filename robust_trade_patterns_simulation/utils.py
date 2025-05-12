@@ -1,8 +1,6 @@
 import datetime
 import random
 
-import numpy as np
-
 
 def random_timestamp(start, end):
     delta = end - start
@@ -10,7 +8,7 @@ def random_timestamp(start, end):
     return start + datetime.timedelta(seconds=sec)
 
 
-def create_invoice(invoice_num, seller, buyer, issue_dt, vat_rate):
+def create_invoice(quantity=None, unit_price=None, good=None, seller=None, buyer=None, issue_dt=None, vat_rate=None, invoice_num=None):
     # Invoice fields
     invoice_id = f"INV{invoice_num:06d}"
     due_dt = issue_dt + datetime.timedelta(days=30)
@@ -25,7 +23,7 @@ def create_invoice(invoice_num, seller, buyer, issue_dt, vat_rate):
     seller_country = seller["country"]
     seller_iban_id = f"DE{random.randint(10000000,99999999)}{seller_company_id}"
     seller_payment_ref = f"REF-{invoice_num:05d}"
-    seller_delivery_info = "Main warehouse"
+    seller_delivery_info = good
     seller_notes = ''
 
     # Buyer details
@@ -34,11 +32,9 @@ def create_invoice(invoice_num, seller, buyer, issue_dt, vat_rate):
     buyer_country =  buyer["country"]
 
     # Amounts and VAT
-    quantity = np.round(np.random.uniform(1, 100), 2)
-    unit_price = np.round(np.random.uniform(10, 1000), 2)
-    net_amount = np.round(quantity * unit_price, 2)
-    vat_amount = np.round(net_amount * vat_rate, 2)
-    total_amount = np.round(net_amount + vat_amount, 2)
+    net_amount = round(quantity * unit_price, 2)
+    vat_amount = round(net_amount * vat_rate, 2)
+    total_amount = round(net_amount + vat_amount, 2)
     amount_currency = 'EUR'
 
     # Confirmation statuses
@@ -88,7 +84,7 @@ def run_random_trade_simulation(
         end_date=datetime.datetime(2025, 5, 9),
         countries=['Luxembourg', 'France'],
     ):
-    invoices = []
+    trades = []
     for invoice_id in range(1, num_transactions + 1):
         # Choose random seller (and therefore good)
         seller = random.choice(companies)
@@ -101,6 +97,14 @@ def run_random_trade_simulation(
         
         # Choose random issue day and time
         issue_dt = random_timestamp(start_date, end_date)
-        invoices.append(create_invoice(invoice_id, seller, buyer, issue_dt, vat_rate))
+        trades.append({
+            "issue_dt": issue_dt,
+            "seller": seller,
+            "buyer": buyer,
+            "vat_rate": vat_rate,
+            "quantity": random.randint(1, 100),
+            "unit_price": round(random.uniform(10, 1000), 2),
+            "good": good,
+        })
     
-    return invoices
+    return trades
