@@ -128,7 +128,7 @@ for idx in range(1, NUM_TRANSACTIONS + 1):
 
 # Create ViDA DRR Data
 drr = pd.DataFrame(records)
-drr.to_csv('output/vida_drr_b2b_and_b2c.csv', index=False)
+drr.to_csv('output_simple_simulation/vida_drr_b2b_and_b2c.csv', index=False)
 print(80 * "=")
 print("ViDA DRR Data")
 print(drr.head())
@@ -150,7 +150,7 @@ global_avg = qvat.groupby('Period')['AmountTotal'].mean().rename('MarketVolume')
 qvat = qvat.merge(global_avg, on='Period')
 qvat = qvat.merge(b2b.groupby(['Period',
 "SellerCompanyID"]).size().rename('SellerTransactions'),on=['Period', "SellerCompanyID"])
-qvat.to_csv('output/vida_vat_quaterly_b2b.csv', index=False)
+qvat.to_csv('output_simple_simulation/vida_vat_quaterly_b2b.csv', index=False)
 print(80 * "=")
 print("Quaterly features and target value in AmountVAT")
 print(qvat.head())
