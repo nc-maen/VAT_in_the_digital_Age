@@ -1,0 +1,177 @@
+SellerCompanyID,SellerCompanyName,SellerSector,Period,Good,AmountTotal,AmountVAT,MarketVolume,CalcVATPeriod
+1,GreenFields Farm,Farmers,8080,Tomatoes,25695.35,4282.56,31503.864999999998,2020-Q1
+2,Sunshine Growers,Farmers,8080,Tomatoes,27143.440000000002,4523.9,31503.864999999998,2020-Q1
+3,TomatoMagic Co.,Food Producers,8080,Canned Tomatoes,23291.170000000002,3881.86,31503.864999999998,2020-Q1
+4,Farm2Can Ltd.,Food Producers,8080,Canned Tomatoes,32635.58,5439.26,31503.864999999998,2020-Q1
+5,FreshLink Logistics,Distributors,8080,Canned Tomatoes,33585.01,5597.52,31503.864999999998,2020-Q1
+6,AgroDistrib Europe,Distributors,8080,Cheese,45641.21,7606.87,31503.864999999998,2020-Q1
+8,Napoli Express,Pizzarias (B2C),8080,Pizza,25731.92,4288.65,31503.864999999998,2020-Q1
+7,Luigi's Pizzeria,Pizzarias (B2C),8080,Pizza,38307.24,6384.54,31503.864999999998,2020-Q1
+5,FreshLink Logistics,Distributors,8081,Canned Tomatoes,23941.6,3990.26,30454.16125,2020-Q2
+1,GreenFields Farm,Farmers,8081,Tomatoes,11183.02,1863.8300000000002,30454.16125,2020-Q2
+4,Farm2Can Ltd.,Food Producers,8081,Canned Tomatoes,33040.65,5506.77,30454.16125,2020-Q2
+6,AgroDistrib Europe,Distributors,8081,Cheese,43583.3,7263.88,30454.16125,2020-Q2
+7,Luigi's Pizzeria,Pizzarias (B2C),8081,Pizza,25114.63,4185.78,30454.16125,2020-Q2
+8,Napoli Express,Pizzarias (B2C),8081,Pizza,20580.66,3430.1,30454.16125,2020-Q2
+3,TomatoMagic Co.,Food Producers,8081,Canned Tomatoes,46200.439999999995,7700.09,30454.16125,2020-Q2
+2,Sunshine Growers,Farmers,8081,Tomatoes,39988.99,6664.82,30454.16125,2020-Q2
+5,FreshLink Logistics,Distributors,8082,Canned Tomatoes,20304.95,3384.16,27515.25375,2020-Q3
+6,AgroDistrib Europe,Distributors,8082,Cheese,28027.74,4671.3,27515.25375,2020-Q3
+8,Napoli Express,Pizzarias (B2C),8082,Pizza,39112.24,6518.71,27515.25375,2020-Q3
+7,Luigi's Pizzeria,Pizzarias (B2C),8082,Pizza,26892.2,4482.04,27515.25375,2020-Q3
+3,TomatoMagic Co.,Food Producers,8082,Canned Tomatoes,26662.94,4443.81,27515.25375,2020-Q3
+4,Farm2Can Ltd.,Food Producers,8082,Canned Tomatoes,29679.24,4946.54,27515.25375,2020-Q3
+1,GreenFields Farm,Farmers,8082,Tomatoes,22337.06,3722.85,27515.25375,2020-Q3
+2,Sunshine Growers,Farmers,8082,Tomatoes,27105.66,4517.62,27515.25375,2020-Q3
+7,Luigi's Pizzeria,Pizzarias (B2C),8083,Pizza,42288.8,7048.12,31322.06,2020-Q4
+8,Napoli Express,Pizzarias (B2C),8083,Pizza,40563.83,6760.63,31322.06,2020-Q4
+2,Sunshine Growers,Farmers,8083,Tomatoes,23330.14,3888.35,31322.06,2020-Q4
+3,TomatoMagic Co.,Food Producers,8083,Canned Tomatoes,19550.32,3258.4,31322.06,2020-Q4
+4,Farm2Can Ltd.,Food Producers,8083,Canned Tomatoes,40270.58,6711.75,31322.06,2020-Q4
+5,FreshLink Logistics,Distributors,8083,Canned Tomatoes,27021.43,4503.58,31322.06,2020-Q4
+6,AgroDistrib Europe,Distributors,8083,Cheese,41400.84,6900.14,31322.06,2020-Q4
+1,GreenFields Farm,Farmers,8083,Tomatoes,16150.539999999999,2691.7599999999998,31322.06,2020-Q4
+1,GreenFields Farm,Farmers,8084,Tomatoes,52388.19,8731.369999999999,31247.067499999997,2021-Q1
+6,AgroDistrib Europe,Distributors,8084,Cheese,25179.45,4196.57,31247.067499999997,2021-Q1
+5,FreshLink Logistics,Distributors,8084,Canned Tomatoes,17472.16,2912.03,31247.067499999997,2021-Q1
+4,Farm2Can Ltd.,Food Producers,8084,Canned Tomatoes,27261.7,4543.6,31247.067499999997,2021-Q1
+3,TomatoMagic Co.,Food Producers,8084,Canned Tomatoes,31356.79,5226.14,31247.067499999997,2021-Q1
+2,Sunshine Growers,Farmers,8084,Tomatoes,31368.89,5228.15,31247.067499999997,2021-Q1
+8,Napoli Express,Pizzarias (B2C),8084,Pizza,22270.739999999998,3711.8,31247.067499999997,2021-Q1
+7,Luigi's Pizzeria,Pizzarias (B2C),8084,Pizza,42678.619999999995,7113.11,31247.067499999997,2021-Q1
+5,FreshLink Logistics,Distributors,8085,Canned Tomatoes,33638.46,5606.389999999999,34757.93125,2021-Q2
+1,GreenFields Farm,Farmers,8085,Tomatoes,33268.61,5544.76,34757.93125,2021-Q2
+4,Farm2Can Ltd.,Food Producers,8085,Canned Tomatoes,29380.23,4896.71,34757.93125,2021-Q2
+6,AgroDistrib Europe,Distributors,8085,Cheese,33980.29,5663.37,34757.93125,2021-Q2
+7,Luigi's Pizzeria,Pizzarias (B2C),8085,Pizza,48949.3,8158.23,34757.93125,2021-Q2
+8,Napoli Express,Pizzarias (B2C),8085,Pizza,41410.86,6901.79,34757.93125,2021-Q2
+3,TomatoMagic Co.,Food Producers,8085,Canned Tomatoes,33920.45,5653.41,34757.93125,2021-Q2
+2,Sunshine Growers,Farmers,8085,Tomatoes,23515.25,3919.21,34757.93125,2021-Q2
+6,AgroDistrib Europe,Distributors,8086,Cheese,42878.58,7146.43,30176.17125,2021-Q3
+5,FreshLink Logistics,Distributors,8086,Canned Tomatoes,20559.14,3426.52,30176.17125,2021-Q3
+8,Napoli Express,Pizzarias (B2C),8086,Pizza,36688.97,6114.83,30176.17125,2021-Q3
+7,Luigi's Pizzeria,Pizzarias (B2C),8086,Pizza,33939.67,5656.6,30176.17125,2021-Q3
+2,Sunshine Growers,Farmers,8086,Tomatoes,17953.739999999998,2992.29,30176.17125,2021-Q3
+4,Farm2Can Ltd.,Food Producers,8086,Canned Tomatoes,38749.14,6458.19,30176.17125,2021-Q3
+1,GreenFields Farm,Farmers,8086,Tomatoes,27567.84,4594.66,30176.17125,2021-Q3
+3,TomatoMagic Co.,Food Producers,8086,Canned Tomatoes,23072.29,3845.36,30176.17125,2021-Q3
+7,Luigi's Pizzeria,Pizzarias (B2C),8087,Pizza,22107.66,3684.63,29735.497499999998,2021-Q4
+8,Napoli Express,Pizzarias (B2C),8087,Pizza,29671.329999999998,4945.22,29735.497499999998,2021-Q4
+6,AgroDistrib Europe,Distributors,8087,Cheese,13893.53,2315.6,29735.497499999998,2021-Q4
+5,FreshLink Logistics,Distributors,8087,Canned Tomatoes,33881.59,5646.94,29735.497499999998,2021-Q4
+4,Farm2Can Ltd.,Food Producers,8087,Canned Tomatoes,43747.29,7291.22,29735.497499999998,2021-Q4
+3,TomatoMagic Co.,Food Producers,8087,Canned Tomatoes,29687.48,4947.92,29735.497499999998,2021-Q4
+2,Sunshine Growers,Farmers,8087,Tomatoes,32765.99,5461.01,29735.497499999998,2021-Q4
+1,GreenFields Farm,Farmers,8087,Tomatoes,32129.11,5354.85,29735.497499999998,2021-Q4
+2,Sunshine Growers,Farmers,8088,Tomatoes,23661.39,3943.55,29357.9925,2022-Q1
+1,GreenFields Farm,Farmers,8088,Tomatoes,22653.75,3775.62,29357.9925,2022-Q1
+3,TomatoMagic Co.,Food Producers,8088,Canned Tomatoes,22740.2,3790.04,29357.9925,2022-Q1
+4,Farm2Can Ltd.,Food Producers,8088,Canned Tomatoes,27692.11,4615.35,29357.9925,2022-Q1
+5,FreshLink Logistics,Distributors,8088,Canned Tomatoes,43518.18,7253.04,29357.9925,2022-Q1
+6,AgroDistrib Europe,Distributors,8088,Cheese,34905.82,5817.639999999999,29357.9925,2022-Q1
+8,Napoli Express,Pizzarias (B2C),8088,Pizza,42610.11,7101.69,29357.9925,2022-Q1
+7,Luigi's Pizzeria,Pizzarias (B2C),8088,Pizza,17082.38,2847.0699999999997,29357.9925,2022-Q1
+3,TomatoMagic Co.,Food Producers,8089,Canned Tomatoes,30900.95,5150.16,32106.86375,2022-Q2
+2,Sunshine Growers,Farmers,8089,Tomatoes,43353.28,7225.55,32106.86375,2022-Q2
+6,AgroDistrib Europe,Distributors,8089,Cheese,40089.020000000004,6681.51,32106.86375,2022-Q2
+1,GreenFields Farm,Farmers,8089,Tomatoes,19429.94,3238.33,32106.86375,2022-Q2
+7,Luigi's Pizzeria,Pizzarias (B2C),8089,Pizza,25809.34,4301.56,32106.86375,2022-Q2
+8,Napoli Express,Pizzarias (B2C),8089,Pizza,44613.24,7435.53,32106.86375,2022-Q2
+4,Farm2Can Ltd.,Food Producers,8089,Canned Tomatoes,26874.45,4479.08,32106.86375,2022-Q2
+5,FreshLink Logistics,Distributors,8089,Canned Tomatoes,25784.69,4297.44,32106.86375,2022-Q2
+6,AgroDistrib Europe,Distributors,8090,Cheese,43213.39,7202.22,31754.4825,2022-Q3
+5,FreshLink Logistics,Distributors,8090,Canned Tomatoes,28561.47,4760.24,31754.4825,2022-Q3
+8,Napoli Express,Pizzarias (B2C),8090,Pizza,17697.51,2949.59,31754.4825,2022-Q3
+7,Luigi's Pizzeria,Pizzarias (B2C),8090,Pizza,40810.19,6801.7,31754.4825,2022-Q3
+3,TomatoMagic Co.,Food Producers,8090,Canned Tomatoes,28021.43,4670.23,31754.4825,2022-Q3
+4,Farm2Can Ltd.,Food Producers,8090,Canned Tomatoes,32304.4,5384.0599999999995,31754.4825,2022-Q3
+1,GreenFields Farm,Farmers,8090,Tomatoes,29652.32,4942.05,31754.4825,2022-Q3
+2,Sunshine Growers,Farmers,8090,Tomatoes,33775.15,5629.17,31754.4825,2022-Q3
+7,Luigi's Pizzeria,Pizzarias (B2C),8091,Pizza,33291.95,5548.67,30204.286249999997,2022-Q4
+8,Napoli Express,Pizzarias (B2C),8091,Pizza,11083.98,1847.32,30204.286249999997,2022-Q4
+6,AgroDistrib Europe,Distributors,8091,Cheese,37053.8,6175.62,30204.286249999997,2022-Q4
+4,Farm2Can Ltd.,Food Producers,8091,Canned Tomatoes,33241.81,5540.31,30204.286249999997,2022-Q4
+2,Sunshine Growers,Farmers,8091,Tomatoes,34876.51,5812.75,30204.286249999997,2022-Q4
+1,GreenFields Farm,Farmers,8091,Tomatoes,28471.72,4745.28,30204.286249999997,2022-Q4
+3,TomatoMagic Co.,Food Producers,8091,Canned Tomatoes,29563.53,4927.27,30204.286249999997,2022-Q4
+5,FreshLink Logistics,Distributors,8091,Canned Tomatoes,34050.99,5675.16,30204.286249999997,2022-Q4
+6,AgroDistrib Europe,Distributors,8092,Cheese,35193.25,5865.55,33279.2825,2023-Q1
+3,TomatoMagic Co.,Food Producers,8092,Canned Tomatoes,31180.9,5196.82,33279.2825,2023-Q1
+1,GreenFields Farm,Farmers,8092,Tomatoes,43971.81,7328.639999999999,33279.2825,2023-Q1
+2,Sunshine Growers,Farmers,8092,Tomatoes,30424.95,5070.83,33279.2825,2023-Q1
+4,Farm2Can Ltd.,Food Producers,8092,Canned Tomatoes,37083.33,6180.55,33279.2825,2023-Q1
+5,FreshLink Logistics,Distributors,8092,Canned Tomatoes,21624.14,3604.0299999999997,33279.2825,2023-Q1
+8,Napoli Express,Pizzarias (B2C),8092,Pizza,34185.62,5697.61,33279.2825,2023-Q1
+7,Luigi's Pizzeria,Pizzarias (B2C),8092,Pizza,32570.260000000002,5428.38,33279.2825,2023-Q1
+2,Sunshine Growers,Farmers,8093,Tomatoes,22483.34,3747.21,24643.86,2023-Q2
+6,AgroDistrib Europe,Distributors,8093,Cheese,31629.41,5271.58,24643.86,2023-Q2
+3,TomatoMagic Co.,Food Producers,8093,Canned Tomatoes,22340.899999999998,3723.5099999999998,24643.86,2023-Q2
+1,GreenFields Farm,Farmers,8093,Tomatoes,10914.57,1819.1,24643.86,2023-Q2
+7,Luigi's Pizzeria,Pizzarias (B2C),8093,Pizza,34367.090000000004,5727.84,24643.86,2023-Q2
+8,Napoli Express,Pizzarias (B2C),8093,Pizza,20395.15,3399.2000000000003,24643.86,2023-Q2
+4,Farm2Can Ltd.,Food Producers,8093,Canned Tomatoes,21122.67,3520.45,24643.86,2023-Q2
+5,FreshLink Logistics,Distributors,8093,Canned Tomatoes,33897.75,5649.62,24643.86,2023-Q2
+5,FreshLink Logistics,Distributors,8094,Canned Tomatoes,41307.0,6884.49,31360.71875,2023-Q3
+4,Farm2Can Ltd.,Food Producers,8094,Canned Tomatoes,51888.62,8648.1,31360.71875,2023-Q3
+8,Napoli Express,Pizzarias (B2C),8094,Pizza,26328.45,4388.05,31360.71875,2023-Q3
+7,Luigi's Pizzeria,Pizzarias (B2C),8094,Pizza,35693.55,5948.93,31360.71875,2023-Q3
+2,Sunshine Growers,Farmers,8094,Tomatoes,20408.81,3401.4700000000003,31360.71875,2023-Q3
+3,TomatoMagic Co.,Food Producers,8094,Canned Tomatoes,26825.97,4471.0,31360.71875,2023-Q3
+6,AgroDistrib Europe,Distributors,8094,Cheese,22696.47,3782.75,31360.71875,2023-Q3
+1,GreenFields Farm,Farmers,8094,Tomatoes,25736.88,4289.48,31360.71875,2023-Q3
+7,Luigi's Pizzeria,Pizzarias (B2C),8095,Pizza,24543.129999999997,4090.52,28272.94625,2023-Q4
+8,Napoli Express,Pizzarias (B2C),8095,Pizza,23186.76,3864.44,28272.94625,2023-Q4
+2,Sunshine Growers,Farmers,8095,Tomatoes,11689.27,1948.22,28272.94625,2023-Q4
+1,GreenFields Farm,Farmers,8095,Tomatoes,38024.71,6337.46,28272.94625,2023-Q4
+3,TomatoMagic Co.,Food Producers,8095,Canned Tomatoes,32066.31,5344.39,28272.94625,2023-Q4
+4,Farm2Can Ltd.,Food Producers,8095,Canned Tomatoes,31947.04,5324.5,28272.94625,2023-Q4
+5,FreshLink Logistics,Distributors,8095,Canned Tomatoes,31708.75,5284.8,28272.94625,2023-Q4
+6,AgroDistrib Europe,Distributors,8095,Cheese,33017.6,5502.94,28272.94625,2023-Q4
+8,Napoli Express,Pizzarias (B2C),8096,Pizza,21320.11,3553.38,28731.64875,2024-Q1
+7,Luigi's Pizzeria,Pizzarias (B2C),8096,Pizza,8002.91,1333.81,28731.64875,2024-Q1
+2,Sunshine Growers,Farmers,8096,Tomatoes,28780.15,4796.7,28731.64875,2024-Q1
+1,GreenFields Farm,Farmers,8096,Tomatoes,17491.48,2915.25,28731.64875,2024-Q1
+3,TomatoMagic Co.,Food Producers,8096,Canned Tomatoes,41276.95,6879.49,28731.64875,2024-Q1
+4,Farm2Can Ltd.,Food Producers,8096,Canned Tomatoes,44633.55,7438.93,28731.64875,2024-Q1
+5,FreshLink Logistics,Distributors,8096,Canned Tomatoes,28399.32,4733.23,28731.64875,2024-Q1
+6,AgroDistrib Europe,Distributors,8096,Cheese,39948.72,6658.11,28731.64875,2024-Q1
+5,FreshLink Logistics,Distributors,8097,Canned Tomatoes,36917.26,6152.87,24909.0775,2024-Q2
+4,Farm2Can Ltd.,Food Producers,8097,Canned Tomatoes,24855.699999999997,4142.6,24909.0775,2024-Q2
+7,Luigi's Pizzeria,Pizzarias (B2C),8097,Pizza,12928.29,2154.7200000000003,24909.0775,2024-Q2
+8,Napoli Express,Pizzarias (B2C),8097,Pizza,29694.81,4949.12,24909.0775,2024-Q2
+1,GreenFields Farm,Farmers,8097,Tomatoes,26700.75,4450.13,24909.0775,2024-Q2
+3,TomatoMagic Co.,Food Producers,8097,Canned Tomatoes,31997.63,5332.95,24909.0775,2024-Q2
+6,AgroDistrib Europe,Distributors,8097,Cheese,23777.82,3962.97,24909.0775,2024-Q2
+2,Sunshine Growers,Farmers,8097,Tomatoes,12400.36,2066.73,24909.0775,2024-Q2
+2,Sunshine Growers,Farmers,8098,Tomatoes,32558.57,5426.42,26001.1025,2024-Q3
+5,FreshLink Logistics,Distributors,8098,Canned Tomatoes,32519.55,5419.91,26001.1025,2024-Q3
+3,TomatoMagic Co.,Food Producers,8098,Canned Tomatoes,42376.62,7062.7699999999995,26001.1025,2024-Q3
+1,GreenFields Farm,Farmers,8098,Tomatoes,21569.91,3594.99,26001.1025,2024-Q3
+8,Napoli Express,Pizzarias (B2C),8098,Pizza,18500.79,3083.48,26001.1025,2024-Q3
+7,Luigi's Pizzeria,Pizzarias (B2C),8098,Pizza,14055.4,2342.55,26001.1025,2024-Q3
+6,AgroDistrib Europe,Distributors,8098,Cheese,22520.78,3753.46,26001.1025,2024-Q3
+4,Farm2Can Ltd.,Food Producers,8098,Canned Tomatoes,23907.2,3984.54,26001.1025,2024-Q3
+7,Luigi's Pizzeria,Pizzarias (B2C),8099,Pizza,13357.14,2226.18,27125.35,2024-Q4
+8,Napoli Express,Pizzarias (B2C),8099,Pizza,11161.39,1860.24,27125.35,2024-Q4
+1,GreenFields Farm,Farmers,8099,Tomatoes,28009.07,4668.18,27125.35,2024-Q4
+3,TomatoMagic Co.,Food Producers,8099,Canned Tomatoes,32858.44,5476.41,27125.35,2024-Q4
+5,FreshLink Logistics,Distributors,8099,Canned Tomatoes,22713.11,3785.51,27125.35,2024-Q4
+2,Sunshine Growers,Farmers,8099,Tomatoes,30704.02,5117.35,27125.35,2024-Q4
+4,Farm2Can Ltd.,Food Producers,8099,Canned Tomatoes,46298.1,7716.34,27125.35,2024-Q4
+6,AgroDistrib Europe,Distributors,8099,Cheese,31901.53,5316.93,27125.35,2024-Q4
+2,Sunshine Growers,Farmers,8100,Tomatoes,38325.21,6387.55,26552.68625,2025-Q1
+1,GreenFields Farm,Farmers,8100,Tomatoes,32520.34,5420.05,26552.68625,2025-Q1
+6,AgroDistrib Europe,Distributors,8100,Cheese,29002.72,4833.77,26552.68625,2025-Q1
+7,Luigi's Pizzeria,Pizzarias (B2C),8100,Pizza,25665.2,4277.52,26552.68625,2025-Q1
+8,Napoli Express,Pizzarias (B2C),8100,Pizza,13832.43,2305.4,26552.68625,2025-Q1
+3,TomatoMagic Co.,Food Producers,8100,Canned Tomatoes,35494.1,5915.6900000000005,26552.68625,2025-Q1
+4,Farm2Can Ltd.,Food Producers,8100,Canned Tomatoes,16623.45,2770.57,26552.68625,2025-Q1
+5,FreshLink Logistics,Distributors,8100,Canned Tomatoes,20958.04,3493.01,26552.68625,2025-Q1
+5,FreshLink Logistics,Distributors,8101,Canned Tomatoes,24189.66,4031.61,11756.92875,2025-Q2
+4,Farm2Can Ltd.,Food Producers,8101,Canned Tomatoes,10443.48,1740.5800000000002,11756.92875,2025-Q2
+3,TomatoMagic Co.,Food Producers,8101,Canned Tomatoes,13497.31,2249.55,11756.92875,2025-Q2
+2,Sunshine Growers,Farmers,8101,Tomatoes,7745.43,1290.9099999999999,11756.92875,2025-Q2
+1,GreenFields Farm,Farmers,8101,Tomatoes,9157.06,1526.18,11756.92875,2025-Q2
+6,AgroDistrib Europe,Distributors,8101,Cheese,13292.73,2215.45,11756.92875,2025-Q2
+7,Luigi's Pizzeria,Pizzarias (B2C),8101,Pizza,8818.97,1469.83,11756.92875,2025-Q2
+8,Napoli Express,Pizzarias (B2C),8101,Pizza,6910.79,1151.8,11756.92875,2025-Q2

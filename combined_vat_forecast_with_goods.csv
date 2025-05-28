@@ -1,0 +1,353 @@
+CalcVATPeriod,CompanyID,Good,SellerVAT,SellerInvoiceCount,BuyerVAT,BuyerInvoiceCount,VATForecast,CompanyName
+2020-Q1,1.0,Tomatoes,4282.56,1.0,0.0,0.0,4282.56,GreenFields Farm
+2020-Q1,2.0,Tomatoes,4523.9,1.0,0.0,0.0,4523.9,Sunshine Growers
+2020-Q1,3.0,Canned Tomatoes,3881.86,1.0,0.0,0.0,3881.86,TomatoMagic Co.
+2020-Q1,4.0,Canned Tomatoes,5439.26,1.0,0.0,0.0,5439.26,Farm2Can Ltd.
+2020-Q1,5.0,Canned Tomatoes,5597.52,1.0,3881.6,1.0,1715.9200000000005,FreshLink Logistics
+2020-Q1,6.0,Cheese,7606.87,1.0,0.0,0.0,7606.87,AgroDistrib Europe
+2020-Q1,7.0,Pizza,6384.54,1.0,0.0,0.0,6384.54,Luigi's Pizzeria
+2020-Q1,8.0,Pizza,4288.65,1.0,0.0,0.0,4288.65,Napoli Express
+2020-Q2,1.0,Tomatoes,1863.83,1.0,0.0,0.0,1863.83,GreenFields Farm
+2020-Q2,2.0,Tomatoes,6664.82,1.0,0.0,0.0,6664.82,Sunshine Growers
+2020-Q2,3.0,Canned Tomatoes,7700.09,1.0,0.0,0.0,7700.09,TomatoMagic Co.
+2020-Q2,4.0,Canned Tomatoes,5506.77,1.0,0.0,0.0,5506.77,Farm2Can Ltd.
+2020-Q2,5.0,Canned Tomatoes,3990.26,1.0,4215.81,1.0,225.55000000000018,FreshLink Logistics
+2020-Q2,6.0,Cheese,7263.88,1.0,0.0,0.0,7263.88,AgroDistrib Europe
+2020-Q2,7.0,Pizza,4185.78,1.0,0.0,0.0,4185.78,Luigi's Pizzeria
+2020-Q2,8.0,Pizza,3430.1,1.0,0.0,0.0,3430.1,Napoli Express
+2020-Q3,1.0,Tomatoes,3722.85,1.0,0.0,0.0,3722.85,GreenFields Farm
+2020-Q3,2.0,Tomatoes,4517.62,1.0,0.0,0.0,4517.62,Sunshine Growers
+2020-Q3,3.0,Canned Tomatoes,4443.81,1.0,0.0,0.0,4443.81,TomatoMagic Co.
+2020-Q3,4.0,Canned Tomatoes,4946.54,1.0,0.0,0.0,4946.54,Farm2Can Ltd.
+2020-Q3,5.0,Canned Tomatoes,3384.16,1.0,3273.15,1.0,111.00999999999976,FreshLink Logistics
+2020-Q3,6.0,Cheese,4671.3,1.0,0.0,0.0,4671.3,AgroDistrib Europe
+2020-Q3,7.0,Pizza,4482.04,1.0,0.0,0.0,4482.04,Luigi's Pizzeria
+2020-Q3,8.0,Pizza,6518.71,1.0,0.0,0.0,6518.71,Napoli Express
+2020-Q4,1.0,Tomatoes,2691.76,1.0,0.0,0.0,2691.76,GreenFields Farm
+2020-Q4,2.0,Tomatoes,3888.35,1.0,0.0,0.0,3888.35,Sunshine Growers
+2020-Q4,3.0,Canned Tomatoes,3258.4,1.0,0.0,0.0,3258.4,TomatoMagic Co.
+2020-Q4,4.0,Canned Tomatoes,6711.75,1.0,0.0,0.0,6711.75,Farm2Can Ltd.
+2020-Q4,5.0,Canned Tomatoes,4503.58,1.0,4807.1,1.0,303.52000000000044,FreshLink Logistics
+2020-Q4,6.0,Cheese,6900.14,1.0,0.0,0.0,6900.14,AgroDistrib Europe
+2020-Q4,7.0,Pizza,7048.12,1.0,0.0,0.0,7048.12,Luigi's Pizzeria
+2020-Q4,8.0,Pizza,6760.63,1.0,0.0,0.0,6760.63,Napoli Express
+2021-Q1,1.0,Tomatoes,8731.369999999999,1.0,0.0,0.0,8731.369999999999,GreenFields Farm
+2021-Q1,2.0,Tomatoes,5228.15,1.0,0.0,0.0,5228.15,Sunshine Growers
+2021-Q1,3.0,Canned Tomatoes,5226.14,1.0,0.0,0.0,5226.14,TomatoMagic Co.
+2021-Q1,4.0,Canned Tomatoes,4543.6,1.0,0.0,0.0,4543.6,Farm2Can Ltd.
+2021-Q1,5.0,Canned Tomatoes,2912.03,1.0,3121.43,1.0,209.39999999999964,FreshLink Logistics
+2021-Q1,6.0,Cheese,4196.57,1.0,0.0,0.0,4196.57,AgroDistrib Europe
+2021-Q1,7.0,Pizza,7113.11,1.0,0.0,0.0,7113.11,Luigi's Pizzeria
+2021-Q1,8.0,Pizza,3711.8,1.0,0.0,0.0,3711.8,Napoli Express
+2021-Q2,1.0,Tomatoes,5544.76,1.0,0.0,0.0,5544.76,GreenFields Farm
+2021-Q2,2.0,Tomatoes,3919.21,1.0,0.0,0.0,3919.21,Sunshine Growers
+2021-Q2,3.0,Canned Tomatoes,5653.41,1.0,0.0,0.0,5653.41,TomatoMagic Co.
+2021-Q2,4.0,Canned Tomatoes,4896.71,1.0,0.0,0.0,4896.71,Farm2Can Ltd.
+2021-Q2,5.0,Canned Tomatoes,5606.389999999999,1.0,2868.93,1.0,2737.4599999999996,FreshLink Logistics
+2021-Q2,6.0,Cheese,5663.37,1.0,0.0,0.0,5663.37,AgroDistrib Europe
+2021-Q2,7.0,Pizza,8158.23,1.0,0.0,0.0,8158.23,Luigi's Pizzeria
+2021-Q2,8.0,Pizza,6901.79,1.0,0.0,0.0,6901.79,Napoli Express
+2021-Q3,1.0,Tomatoes,4594.66,1.0,0.0,0.0,4594.66,GreenFields Farm
+2021-Q3,2.0,Tomatoes,2992.29,1.0,0.0,0.0,2992.29,Sunshine Growers
+2021-Q3,3.0,Canned Tomatoes,3845.36,1.0,0.0,0.0,3845.36,TomatoMagic Co.
+2021-Q3,4.0,Canned Tomatoes,6458.19,1.0,0.0,0.0,6458.19,Farm2Can Ltd.
+2021-Q3,5.0,Canned Tomatoes,3426.52,1.0,2655.23,1.0,771.29,FreshLink Logistics
+2021-Q3,6.0,Cheese,7146.43,1.0,0.0,0.0,7146.43,AgroDistrib Europe
+2021-Q3,7.0,Pizza,5656.6,1.0,0.0,0.0,5656.6,Luigi's Pizzeria
+2021-Q3,8.0,Pizza,6114.83,1.0,0.0,0.0,6114.83,Napoli Express
+2021-Q4,1.0,Tomatoes,5354.85,1.0,0.0,0.0,5354.85,GreenFields Farm
+2021-Q4,2.0,Tomatoes,5461.01,1.0,0.0,0.0,5461.01,Sunshine Growers
+2021-Q4,3.0,Canned Tomatoes,4947.92,1.0,0.0,0.0,4947.92,TomatoMagic Co.
+2021-Q4,4.0,Canned Tomatoes,7291.22,1.0,0.0,0.0,7291.22,Farm2Can Ltd.
+2021-Q4,5.0,Canned Tomatoes,5646.94,1.0,3662.33,1.0,1984.6099999999997,FreshLink Logistics
+2021-Q4,6.0,Cheese,2315.6,1.0,0.0,0.0,2315.6,AgroDistrib Europe
+2021-Q4,7.0,Pizza,3684.63,1.0,0.0,0.0,3684.63,Luigi's Pizzeria
+2021-Q4,8.0,Pizza,4945.22,1.0,0.0,0.0,4945.22,Napoli Express
+2022-Q1,1.0,Tomatoes,3775.62,1.0,0.0,0.0,3775.62,GreenFields Farm
+2022-Q1,2.0,Tomatoes,3943.55,1.0,0.0,0.0,3943.55,Sunshine Growers
+2022-Q1,3.0,Canned Tomatoes,3790.04,1.0,0.0,0.0,3790.04,TomatoMagic Co.
+2022-Q1,4.0,Canned Tomatoes,4615.35,1.0,0.0,0.0,4615.35,Farm2Can Ltd.
+2022-Q1,5.0,Canned Tomatoes,7253.04,1.0,3091.3,1.0,4161.74,FreshLink Logistics
+2022-Q1,6.0,Cheese,5817.639999999999,1.0,0.0,0.0,5817.639999999999,AgroDistrib Europe
+2022-Q1,7.0,Pizza,2847.07,1.0,0.0,0.0,2847.07,Luigi's Pizzeria
+2022-Q1,8.0,Pizza,7101.69,1.0,0.0,0.0,7101.69,Napoli Express
+2022-Q2,1.0,Tomatoes,3238.33,1.0,0.0,0.0,3238.33,GreenFields Farm
+2022-Q2,2.0,Tomatoes,7225.55,1.0,0.0,0.0,7225.55,Sunshine Growers
+2022-Q2,3.0,Canned Tomatoes,5150.16,1.0,0.0,0.0,5150.16,TomatoMagic Co.
+2022-Q2,4.0,Canned Tomatoes,4479.08,1.0,0.0,0.0,4479.08,Farm2Can Ltd.
+2022-Q2,5.0,Canned Tomatoes,4297.44,1.0,3763.55,1.0,533.8899999999994,FreshLink Logistics
+2022-Q2,6.0,Cheese,6681.51,1.0,0.0,0.0,6681.51,AgroDistrib Europe
+2022-Q2,7.0,Pizza,4301.56,1.0,0.0,0.0,4301.56,Luigi's Pizzeria
+2022-Q2,8.0,Pizza,7435.53,1.0,0.0,0.0,7435.53,Napoli Express
+2022-Q3,1.0,Tomatoes,4942.05,1.0,0.0,0.0,4942.05,GreenFields Farm
+2022-Q3,2.0,Tomatoes,5629.17,1.0,0.0,0.0,5629.17,Sunshine Growers
+2022-Q3,3.0,Canned Tomatoes,4670.23,1.0,0.0,0.0,4670.23,TomatoMagic Co.
+2022-Q3,4.0,Canned Tomatoes,5384.06,1.0,0.0,0.0,5384.06,Farm2Can Ltd.
+2022-Q3,5.0,Canned Tomatoes,4760.24,1.0,2900.33,1.0,1859.9099999999999,FreshLink Logistics
+2022-Q3,6.0,Cheese,7202.22,1.0,0.0,0.0,7202.22,AgroDistrib Europe
+2022-Q3,7.0,Pizza,6801.7,1.0,0.0,0.0,6801.7,Luigi's Pizzeria
+2022-Q3,8.0,Pizza,2949.59,1.0,0.0,0.0,2949.59,Napoli Express
+2022-Q4,1.0,Tomatoes,4745.28,1.0,0.0,0.0,4745.28,GreenFields Farm
+2022-Q4,2.0,Tomatoes,5812.75,1.0,0.0,0.0,5812.75,Sunshine Growers
+2022-Q4,3.0,Canned Tomatoes,4927.27,1.0,0.0,0.0,4927.27,TomatoMagic Co.
+2022-Q4,4.0,Canned Tomatoes,5540.31,1.0,0.0,0.0,5540.31,Farm2Can Ltd.
+2022-Q4,5.0,Canned Tomatoes,5675.16,1.0,2272.0,1.0,3403.16,FreshLink Logistics
+2022-Q4,6.0,Cheese,6175.62,1.0,0.0,0.0,6175.62,AgroDistrib Europe
+2022-Q4,7.0,Pizza,5548.67,1.0,0.0,0.0,5548.67,Luigi's Pizzeria
+2022-Q4,8.0,Pizza,1847.32,1.0,0.0,0.0,1847.32,Napoli Express
+2023-Q1,1.0,Tomatoes,7328.639999999999,1.0,0.0,0.0,7328.639999999999,GreenFields Farm
+2023-Q1,2.0,Tomatoes,5070.83,1.0,0.0,0.0,5070.83,Sunshine Growers
+2023-Q1,3.0,Canned Tomatoes,5196.82,1.0,0.0,0.0,5196.82,TomatoMagic Co.
+2023-Q1,4.0,Canned Tomatoes,6180.55,1.0,0.0,0.0,6180.55,Farm2Can Ltd.
+2023-Q1,5.0,Canned Tomatoes,3604.03,1.0,4467.91,1.0,863.8799999999997,FreshLink Logistics
+2023-Q1,6.0,Cheese,5865.55,1.0,0.0,0.0,5865.55,AgroDistrib Europe
+2023-Q1,7.0,Pizza,5428.38,1.0,0.0,0.0,5428.38,Luigi's Pizzeria
+2023-Q1,8.0,Pizza,5697.61,1.0,0.0,0.0,5697.61,Napoli Express
+2023-Q2,1.0,Tomatoes,1819.1,1.0,0.0,0.0,1819.1,GreenFields Farm
+2023-Q2,2.0,Tomatoes,3747.21,1.0,0.0,0.0,3747.21,Sunshine Growers
+2023-Q2,3.0,Canned Tomatoes,3723.51,1.0,0.0,0.0,3723.51,TomatoMagic Co.
+2023-Q2,4.0,Canned Tomatoes,3520.45,1.0,0.0,0.0,3520.45,Farm2Can Ltd.
+2023-Q2,5.0,Canned Tomatoes,5649.62,1.0,3922.95,1.0,1726.67,FreshLink Logistics
+2023-Q2,6.0,Cheese,5271.58,1.0,0.0,0.0,5271.58,AgroDistrib Europe
+2023-Q2,7.0,Pizza,5727.84,1.0,0.0,0.0,5727.84,Luigi's Pizzeria
+2023-Q2,8.0,Pizza,3399.2000000000003,1.0,0.0,0.0,3399.2000000000003,Napoli Express
+2023-Q3,1.0,Tomatoes,4289.48,1.0,0.0,0.0,4289.48,GreenFields Farm
+2023-Q3,2.0,Tomatoes,3401.4700000000003,1.0,0.0,0.0,3401.4700000000003,Sunshine Growers
+2023-Q3,3.0,Canned Tomatoes,4471.0,1.0,0.0,0.0,4471.0,TomatoMagic Co.
+2023-Q3,4.0,Canned Tomatoes,8648.1,1.0,0.0,0.0,8648.1,Farm2Can Ltd.
+2023-Q3,5.0,Canned Tomatoes,6884.49,1.0,3668.12,1.0,3216.37,FreshLink Logistics
+2023-Q3,6.0,Cheese,3782.75,1.0,0.0,0.0,3782.75,AgroDistrib Europe
+2023-Q3,7.0,Pizza,5948.93,1.0,0.0,0.0,5948.93,Luigi's Pizzeria
+2023-Q3,8.0,Pizza,4388.05,1.0,0.0,0.0,4388.05,Napoli Express
+2023-Q4,1.0,Tomatoes,6337.46,1.0,0.0,0.0,6337.46,GreenFields Farm
+2023-Q4,2.0,Tomatoes,1948.22,1.0,0.0,0.0,1948.22,Sunshine Growers
+2023-Q4,3.0,Canned Tomatoes,5344.39,1.0,0.0,0.0,5344.39,TomatoMagic Co.
+2023-Q4,4.0,Canned Tomatoes,5324.5,1.0,0.0,0.0,5324.5,Farm2Can Ltd.
+2023-Q4,5.0,Canned Tomatoes,5284.8,1.0,4276.72,1.0,1008.0799999999999,FreshLink Logistics
+2023-Q4,6.0,Cheese,5502.94,1.0,0.0,0.0,5502.94,AgroDistrib Europe
+2023-Q4,7.0,Pizza,4090.52,1.0,0.0,0.0,4090.52,Luigi's Pizzeria
+2023-Q4,8.0,Pizza,3864.44,1.0,0.0,0.0,3864.44,Napoli Express
+2024-Q1,1.0,Tomatoes,2915.25,1.0,0.0,0.0,2915.25,GreenFields Farm
+2024-Q1,2.0,Tomatoes,4796.7,1.0,0.0,0.0,4796.7,Sunshine Growers
+2024-Q1,3.0,Canned Tomatoes,6879.49,1.0,0.0,0.0,6879.49,TomatoMagic Co.
+2024-Q1,4.0,Canned Tomatoes,7438.93,1.0,0.0,0.0,7438.93,Farm2Can Ltd.
+2024-Q1,5.0,Canned Tomatoes,4733.23,1.0,4247.47,1.0,485.7599999999993,FreshLink Logistics
+2024-Q1,6.0,Cheese,6658.11,1.0,0.0,0.0,6658.11,AgroDistrib Europe
+2024-Q1,7.0,Pizza,1333.81,1.0,0.0,0.0,1333.81,Luigi's Pizzeria
+2024-Q1,8.0,Pizza,3553.38,1.0,0.0,0.0,3553.38,Napoli Express
+2024-Q2,1.0,Tomatoes,4450.13,1.0,0.0,0.0,4450.13,GreenFields Farm
+2024-Q2,2.0,Tomatoes,2066.73,1.0,0.0,0.0,2066.73,Sunshine Growers
+2024-Q2,3.0,Canned Tomatoes,5332.95,1.0,0.0,0.0,5332.95,TomatoMagic Co.
+2024-Q2,4.0,Canned Tomatoes,4142.6,1.0,0.0,0.0,4142.6,Farm2Can Ltd.
+2024-Q2,5.0,Canned Tomatoes,6152.87,1.0,3346.64,1.0,2806.23,FreshLink Logistics
+2024-Q2,6.0,Cheese,3962.97,1.0,0.0,0.0,3962.97,AgroDistrib Europe
+2024-Q2,7.0,Pizza,2154.7200000000003,1.0,0.0,0.0,2154.7200000000003,Luigi's Pizzeria
+2024-Q2,8.0,Pizza,4949.12,1.0,0.0,0.0,4949.12,Napoli Express
+2024-Q3,1.0,Tomatoes,3594.99,1.0,0.0,0.0,3594.99,GreenFields Farm
+2024-Q3,2.0,Tomatoes,5426.42,1.0,0.0,0.0,5426.42,Sunshine Growers
+2024-Q3,3.0,Canned Tomatoes,7062.77,1.0,0.0,0.0,7062.77,TomatoMagic Co.
+2024-Q3,4.0,Canned Tomatoes,3984.54,1.0,0.0,0.0,3984.54,Farm2Can Ltd.
+2024-Q3,5.0,Canned Tomatoes,5419.91,1.0,3020.2,1.0,2399.71,FreshLink Logistics
+2024-Q3,6.0,Cheese,3753.46,1.0,0.0,0.0,3753.46,AgroDistrib Europe
+2024-Q3,7.0,Pizza,2342.55,1.0,0.0,0.0,2342.55,Luigi's Pizzeria
+2024-Q3,8.0,Pizza,3083.48,1.0,0.0,0.0,3083.48,Napoli Express
+2024-Q4,1.0,Tomatoes,4668.18,1.0,0.0,0.0,4668.18,GreenFields Farm
+2024-Q4,2.0,Tomatoes,5117.35,1.0,0.0,0.0,5117.35,Sunshine Growers
+2024-Q4,3.0,Canned Tomatoes,5476.41,1.0,0.0,0.0,5476.41,TomatoMagic Co.
+2024-Q4,4.0,Canned Tomatoes,7716.34,1.0,0.0,0.0,7716.34,Farm2Can Ltd.
+2024-Q4,5.0,Canned Tomatoes,3785.51,1.0,3364.76,1.0,420.75,FreshLink Logistics
+2024-Q4,6.0,Cheese,5316.93,1.0,0.0,0.0,5316.93,AgroDistrib Europe
+2024-Q4,7.0,Pizza,2226.18,1.0,0.0,0.0,2226.18,Luigi's Pizzeria
+2024-Q4,8.0,Pizza,1860.24,1.0,0.0,0.0,1860.24,Napoli Express
+2025-Q1,1.0,Tomatoes,5420.05,1.0,0.0,0.0,5420.05,GreenFields Farm
+2025-Q1,2.0,Tomatoes,6387.55,1.0,0.0,0.0,6387.55,Sunshine Growers
+2025-Q1,3.0,Canned Tomatoes,5915.6900000000005,1.0,0.0,0.0,5915.6900000000005,TomatoMagic Co.
+2025-Q1,4.0,Canned Tomatoes,2770.57,1.0,0.0,0.0,2770.57,Farm2Can Ltd.
+2025-Q1,5.0,Canned Tomatoes,3493.01,1.0,2611.24,1.0,881.7700000000004,FreshLink Logistics
+2025-Q1,6.0,Cheese,4833.77,1.0,0.0,0.0,4833.77,AgroDistrib Europe
+2025-Q1,7.0,Pizza,4277.52,1.0,0.0,0.0,4277.52,Luigi's Pizzeria
+2025-Q1,8.0,Pizza,2305.4,1.0,0.0,0.0,2305.4,Napoli Express
+2025-Q2,1.0,Tomatoes,1526.18,1.0,0.0,0.0,1526.18,GreenFields Farm
+2025-Q2,2.0,Tomatoes,1290.91,1.0,0.0,0.0,1290.91,Sunshine Growers
+2025-Q2,3.0,Canned Tomatoes,2249.55,1.0,0.0,0.0,2249.55,TomatoMagic Co.
+2025-Q2,4.0,Canned Tomatoes,1740.5800000000002,1.0,0.0,0.0,1740.5800000000002,Farm2Can Ltd.
+2025-Q2,5.0,Canned Tomatoes,4031.61,1.0,1557.48,1.0,2474.13,FreshLink Logistics
+2025-Q2,6.0,Cheese,2215.45,1.0,0.0,0.0,2215.45,AgroDistrib Europe
+2025-Q2,7.0,Pizza,1469.83,1.0,0.0,0.0,1469.83,Luigi's Pizzeria
+2025-Q2,8.0,Pizza,1151.8,1.0,0.0,0.0,1151.8,Napoli Express
+2020-Q1,3.0,Tomatoes,0.0,0.0,2452.2,1.0,2452.2,TomatoMagic Co.
+2020-Q1,4.0,Tomatoes,0.0,0.0,6354.26,1.0,6354.26,Farm2Can Ltd.
+2020-Q1,7.0,Canned Tomatoes,0.0,0.0,7900.11,1.0,7900.11,Luigi's Pizzeria
+2020-Q1,7.0,Cheese,0.0,0.0,2679.57,1.0,2679.57,Luigi's Pizzeria
+2020-Q1,8.0,Canned Tomatoes,0.0,0.0,3136.9300000000003,1.0,3136.9300000000003,Napoli Express
+2020-Q1,8.0,Cheese,0.0,0.0,4927.3,1.0,4927.3,Napoli Express
+2020-Q1,9.0,Pizza,0.0,0.0,6682.91,1.0,6682.91,Anna Müller
+2020-Q1,10.0,Pizza,0.0,0.0,3990.28,1.0,3990.28,Jean Dupont
+2020-Q2,3.0,Tomatoes,0.0,0.0,4986.0,1.0,4986.0,TomatoMagic Co.
+2020-Q2,4.0,Tomatoes,0.0,0.0,3542.65,1.0,3542.65,Farm2Can Ltd.
+2020-Q2,7.0,Canned Tomatoes,0.0,0.0,5662.31,1.0,5662.31,Luigi's Pizzeria
+2020-Q2,7.0,Cheese,0.0,0.0,2452.97,1.0,2452.97,Luigi's Pizzeria
+2020-Q2,8.0,Canned Tomatoes,0.0,0.0,7319.0,1.0,7319.0,Napoli Express
+2020-Q2,8.0,Cheese,0.0,0.0,4810.91,1.0,4810.91,Napoli Express
+2020-Q2,9.0,Pizza,0.0,0.0,4754.02,1.0,4754.02,Anna Müller
+2020-Q2,10.0,Pizza,0.0,0.0,2861.86,1.0,2861.86,Jean Dupont
+2020-Q3,3.0,Tomatoes,0.0,0.0,4918.18,1.0,4918.18,TomatoMagic Co.
+2020-Q3,4.0,Tomatoes,0.0,0.0,3322.29,1.0,3322.29,Farm2Can Ltd.
+2020-Q3,7.0,Canned Tomatoes,0.0,0.0,4848.56,1.0,4848.56,Luigi's Pizzeria
+2020-Q3,7.0,Cheese,0.0,0.0,1703.34,1.0,1703.34,Luigi's Pizzeria
+2020-Q3,8.0,Canned Tomatoes,0.0,0.0,4652.8,1.0,4652.8,Napoli Express
+2020-Q3,8.0,Cheese,0.0,0.0,2967.96,1.0,2967.96,Napoli Express
+2020-Q3,9.0,Pizza,0.0,0.0,4981.85,1.0,4981.85,Anna Müller
+2020-Q3,10.0,Pizza,0.0,0.0,6018.900000000001,1.0,6018.900000000001,Jean Dupont
+2020-Q4,3.0,Tomatoes,0.0,0.0,2835.24,1.0,2835.24,TomatoMagic Co.
+2020-Q4,4.0,Tomatoes,0.0,0.0,3744.87,1.0,3744.87,Farm2Can Ltd.
+2020-Q4,7.0,Canned Tomatoes,0.0,0.0,5147.76,1.0,5147.76,Luigi's Pizzeria
+2020-Q4,7.0,Cheese,0.0,0.0,2669.82,1.0,2669.82,Luigi's Pizzeria
+2020-Q4,8.0,Canned Tomatoes,0.0,0.0,4518.87,1.0,4518.87,Napoli Express
+2020-Q4,8.0,Cheese,0.0,0.0,4230.32,1.0,4230.32,Napoli Express
+2020-Q4,9.0,Pizza,0.0,0.0,8322.06,1.0,8322.06,Anna Müller
+2020-Q4,10.0,Pizza,0.0,0.0,5486.69,1.0,5486.69,Jean Dupont
+2021-Q1,3.0,Tomatoes,0.0,0.0,9738.53,1.0,9738.53,TomatoMagic Co.
+2021-Q1,4.0,Tomatoes,0.0,0.0,4220.99,1.0,4220.99,Farm2Can Ltd.
+2021-Q1,7.0,Canned Tomatoes,0.0,0.0,7051.530000000001,1.0,7051.530000000001,Luigi's Pizzeria
+2021-Q1,7.0,Cheese,0.0,0.0,1293.35,1.0,1293.35,Luigi's Pizzeria
+2021-Q1,8.0,Canned Tomatoes,0.0,0.0,2508.81,1.0,2508.81,Napoli Express
+2021-Q1,8.0,Cheese,0.0,0.0,2903.22,1.0,2903.22,Napoli Express
+2021-Q1,9.0,Pizza,0.0,0.0,4011.58,1.0,4011.58,Anna Müller
+2021-Q1,10.0,Pizza,0.0,0.0,6813.33,1.0,6813.33,Jean Dupont
+2021-Q2,3.0,Tomatoes,0.0,0.0,5573.57,1.0,5573.57,TomatoMagic Co.
+2021-Q2,4.0,Tomatoes,0.0,0.0,3890.4,1.0,3890.4,Farm2Can Ltd.
+2021-Q2,7.0,Canned Tomatoes,0.0,0.0,4930.48,1.0,4930.48,Luigi's Pizzeria
+2021-Q2,7.0,Cheese,0.0,0.0,3126.78,1.0,3126.78,Luigi's Pizzeria
+2021-Q2,8.0,Canned Tomatoes,0.0,0.0,8357.1,1.0,8357.1,Napoli Express
+2021-Q2,8.0,Cheese,0.0,0.0,2536.59,1.0,2536.59,Napoli Express
+2021-Q2,9.0,Pizza,0.0,0.0,8039.05,1.0,8039.05,Anna Müller
+2021-Q2,10.0,Pizza,0.0,0.0,7020.97,1.0,7020.97,Jean Dupont
+2021-Q3,3.0,Tomatoes,0.0,0.0,4998.94,1.0,4998.94,TomatoMagic Co.
+2021-Q3,4.0,Tomatoes,0.0,0.0,2588.01,1.0,2588.01,Farm2Can Ltd.
+2021-Q3,7.0,Canned Tomatoes,0.0,0.0,4069.72,1.0,4069.72,Luigi's Pizzeria
+2021-Q3,7.0,Cheese,0.0,0.0,2356.8,1.0,2356.8,Luigi's Pizzeria
+2021-Q3,8.0,Canned Tomatoes,0.0,0.0,7005.12,1.0,7005.12,Napoli Express
+2021-Q3,8.0,Cheese,0.0,0.0,4789.63,1.0,4789.63,Napoli Express
+2021-Q3,9.0,Pizza,0.0,0.0,6584.68,1.0,6584.68,Anna Müller
+2021-Q3,10.0,Pizza,0.0,0.0,5186.75,1.0,5186.75,Jean Dupont
+2021-Q4,3.0,Tomatoes,0.0,0.0,5963.42,1.0,5963.42,TomatoMagic Co.
+2021-Q4,4.0,Tomatoes,0.0,0.0,4852.44,1.0,4852.44,Farm2Can Ltd.
+2021-Q4,7.0,Canned Tomatoes,0.0,0.0,6709.72,1.0,6709.72,Luigi's Pizzeria
+2021-Q4,7.0,Cheese,0.0,0.0,691.6500000000001,1.0,691.6500000000001,Luigi's Pizzeria
+2021-Q4,8.0,Canned Tomatoes,0.0,0.0,7514.03,1.0,7514.03,Napoli Express
+2021-Q4,8.0,Cheese,0.0,0.0,1623.95,1.0,1623.95,Napoli Express
+2021-Q4,9.0,Pizza,0.0,0.0,4488.55,1.0,4488.55,Anna Müller
+2021-Q4,10.0,Pizza,0.0,0.0,4141.3,1.0,4141.3,Jean Dupont
+2022-Q1,3.0,Tomatoes,0.0,0.0,3536.29,1.0,3536.29,TomatoMagic Co.
+2022-Q1,4.0,Tomatoes,0.0,0.0,4182.88,1.0,4182.88,Farm2Can Ltd.
+2022-Q1,7.0,Canned Tomatoes,0.0,0.0,6376.12,1.0,6376.12,Luigi's Pizzeria
+2022-Q1,7.0,Cheese,0.0,0.0,1653.32,1.0,1653.32,Luigi's Pizzeria
+2022-Q1,8.0,Canned Tomatoes,0.0,0.0,6191.01,1.0,6191.01,Napoli Express
+2022-Q1,8.0,Cheese,0.0,0.0,4164.32,1.0,4164.32,Napoli Express
+2022-Q1,9.0,Pizza,0.0,0.0,3290.42,1.0,3290.42,Anna Müller
+2022-Q1,10.0,Pizza,0.0,0.0,6658.34,1.0,6658.34,Jean Dupont
+2022-Q2,3.0,Tomatoes,0.0,0.0,6483.599999999999,1.0,6483.599999999999,TomatoMagic Co.
+2022-Q2,4.0,Tomatoes,0.0,0.0,3980.28,1.0,3980.28,Farm2Can Ltd.
+2022-Q2,7.0,Canned Tomatoes,0.0,0.0,4691.19,1.0,4691.19,Luigi's Pizzeria
+2022-Q2,7.0,Cheese,0.0,0.0,1655.0,1.0,1655.0,Luigi's Pizzeria
+2022-Q2,8.0,Canned Tomatoes,0.0,0.0,5471.94,1.0,5471.94,Napoli Express
+2022-Q2,8.0,Cheese,0.0,0.0,5026.51,1.0,5026.51,Napoli Express
+2022-Q2,9.0,Pizza,0.0,0.0,5672.09,1.0,5672.09,Anna Müller
+2022-Q2,10.0,Pizza,0.0,0.0,6065.0,1.0,6065.0,Jean Dupont
+2022-Q3,3.0,Tomatoes,0.0,0.0,3583.89,1.0,3583.89,TomatoMagic Co.
+2022-Q3,4.0,Tomatoes,0.0,0.0,6987.33,1.0,6987.33,Farm2Can Ltd.
+2022-Q3,7.0,Canned Tomatoes,0.0,0.0,5362.87,1.0,5362.87,Luigi's Pizzeria
+2022-Q3,7.0,Cheese,0.0,0.0,4468.64,1.0,4468.64,Luigi's Pizzeria
+2022-Q3,8.0,Canned Tomatoes,0.0,0.0,6551.33,1.0,6551.33,Napoli Express
+2022-Q3,8.0,Cheese,0.0,0.0,2733.58,1.0,2733.58,Napoli Express
+2022-Q3,9.0,Pizza,0.0,0.0,4172.05,1.0,4172.05,Anna Müller
+2022-Q3,10.0,Pizza,0.0,0.0,5579.24,1.0,5579.24,Jean Dupont
+2022-Q4,3.0,Tomatoes,0.0,0.0,6151.62,1.0,6151.62,TomatoMagic Co.
+2022-Q4,4.0,Tomatoes,0.0,0.0,4406.41,1.0,4406.41,Farm2Can Ltd.
+2022-Q4,7.0,Canned Tomatoes,0.0,0.0,5884.0,1.0,5884.0,Luigi's Pizzeria
+2022-Q4,7.0,Cheese,0.0,0.0,3254.36,1.0,3254.36,Luigi's Pizzeria
+2022-Q4,8.0,Canned Tomatoes,0.0,0.0,7986.74,1.0,7986.74,Napoli Express
+2022-Q4,8.0,Cheese,0.0,0.0,2921.26,1.0,2921.26,Napoli Express
+2022-Q4,9.0,Pizza,0.0,0.0,3084.39,1.0,3084.39,Anna Müller
+2022-Q4,10.0,Pizza,0.0,0.0,4311.6,1.0,4311.6,Jean Dupont
+2023-Q1,3.0,Tomatoes,0.0,0.0,7212.66,1.0,7212.66,TomatoMagic Co.
+2023-Q1,4.0,Tomatoes,0.0,0.0,5186.81,1.0,5186.81,Farm2Can Ltd.
+2023-Q1,7.0,Canned Tomatoes,0.0,0.0,4845.25,1.0,4845.25,Luigi's Pizzeria
+2023-Q1,7.0,Cheese,0.0,0.0,3415.45,1.0,3415.45,Luigi's Pizzeria
+2023-Q1,8.0,Canned Tomatoes,0.0,0.0,5668.24,1.0,5668.24,Napoli Express
+2023-Q1,8.0,Cheese,0.0,0.0,2450.1,1.0,2450.1,Napoli Express
+2023-Q1,9.0,Pizza,0.0,0.0,6573.8,1.0,6573.8,Anna Müller
+2023-Q1,10.0,Pizza,0.0,0.0,4552.19,1.0,4552.19,Jean Dupont
+2023-Q2,3.0,Tomatoes,0.0,0.0,3633.06,1.0,3633.06,TomatoMagic Co.
+2023-Q2,4.0,Tomatoes,0.0,0.0,1933.25,1.0,1933.25,Farm2Can Ltd.
+2023-Q2,7.0,Canned Tomatoes,0.0,0.0,7190.469999999999,1.0,7190.469999999999,Luigi's Pizzeria
+2023-Q2,7.0,Cheese,0.0,0.0,2817.52,1.0,2817.52,Luigi's Pizzeria
+2023-Q2,8.0,Canned Tomatoes,0.0,0.0,1780.16,1.0,1780.16,Napoli Express
+2023-Q2,8.0,Cheese,0.0,0.0,2454.06,1.0,2454.06,Napoli Express
+2023-Q2,9.0,Pizza,0.0,0.0,4321.23,1.0,4321.23,Anna Müller
+2023-Q2,10.0,Pizza,0.0,0.0,4805.81,1.0,4805.81,Jean Dupont
+2023-Q3,3.0,Tomatoes,0.0,0.0,2688.09,1.0,2688.09,TomatoMagic Co.
+2023-Q3,4.0,Tomatoes,0.0,0.0,5002.86,1.0,5002.86,Farm2Can Ltd.
+2023-Q3,7.0,Canned Tomatoes,0.0,0.0,6600.26,1.0,6600.26,Luigi's Pizzeria
+2023-Q3,7.0,Cheese,0.0,0.0,1214.41,1.0,1214.41,Luigi's Pizzeria
+2023-Q3,8.0,Canned Tomatoes,0.0,0.0,9735.21,1.0,9735.21,Napoli Express
+2023-Q3,8.0,Cheese,0.0,0.0,2568.34,1.0,2568.34,Napoli Express
+2023-Q3,9.0,Pizza,0.0,0.0,5907.62,1.0,5907.62,Anna Müller
+2023-Q3,10.0,Pizza,0.0,0.0,4429.36,1.0,4429.36,Jean Dupont
+2023-Q4,3.0,Tomatoes,0.0,0.0,3947.74,1.0,3947.74,TomatoMagic Co.
+2023-Q4,4.0,Tomatoes,0.0,0.0,4337.9400000000005,1.0,4337.9400000000005,Farm2Can Ltd.
+2023-Q4,7.0,Canned Tomatoes,0.0,0.0,5729.58,1.0,5729.58,Luigi's Pizzeria
+2023-Q4,7.0,Cheese,0.0,0.0,4328.52,1.0,4328.52,Luigi's Pizzeria
+2023-Q4,8.0,Canned Tomatoes,0.0,0.0,5947.39,1.0,5947.39,Napoli Express
+2023-Q4,8.0,Cheese,0.0,0.0,1174.42,1.0,1174.42,Napoli Express
+2023-Q4,9.0,Pizza,0.0,0.0,3734.23,1.0,3734.23,Anna Müller
+2023-Q4,10.0,Pizza,0.0,0.0,4220.73,1.0,4220.73,Jean Dupont
+2024-Q1,3.0,Tomatoes,0.0,0.0,3710.95,1.0,3710.95,TomatoMagic Co.
+2024-Q1,4.0,Tomatoes,0.0,0.0,4001.0,1.0,4001.0,Farm2Can Ltd.
+2024-Q1,7.0,Canned Tomatoes,0.0,0.0,7166.49,1.0,7166.49,Luigi's Pizzeria
+2024-Q1,7.0,Cheese,0.0,0.0,2752.47,1.0,2752.47,Luigi's Pizzeria
+2024-Q1,8.0,Canned Tomatoes,0.0,0.0,7637.69,1.0,7637.69,Napoli Express
+2024-Q1,8.0,Cheese,0.0,0.0,3905.64,1.0,3905.64,Napoli Express
+2024-Q1,9.0,Pizza,0.0,0.0,3558.98,1.0,3558.98,Anna Müller
+2024-Q1,10.0,Pizza,0.0,0.0,1328.21,1.0,1328.21,Jean Dupont
+2024-Q2,3.0,Tomatoes,0.0,0.0,2475.13,1.0,2475.13,TomatoMagic Co.
+2024-Q2,4.0,Tomatoes,0.0,0.0,4041.73,1.0,4041.73,Farm2Can Ltd.
+2024-Q2,7.0,Canned Tomatoes,0.0,0.0,8016.2,1.0,8016.2,Luigi's Pizzeria
+2024-Q2,7.0,Cheese,0.0,0.0,2225.42,1.0,2225.42,Luigi's Pizzeria
+2024-Q2,8.0,Canned Tomatoes,0.0,0.0,4265.58,1.0,4265.58,Napoli Express
+2024-Q2,8.0,Cheese,0.0,0.0,1737.55,1.0,1737.55,Napoli Express
+2024-Q2,9.0,Pizza,0.0,0.0,3907.14,1.0,3907.14,Anna Müller
+2024-Q2,10.0,Pizza,0.0,0.0,3196.7,1.0,3196.7,Jean Dupont
+2024-Q3,3.0,Tomatoes,0.0,0.0,6211.12,1.0,6211.12,TomatoMagic Co.
+2024-Q3,4.0,Tomatoes,0.0,0.0,2810.29,1.0,2810.29,Farm2Can Ltd.
+2024-Q3,7.0,Canned Tomatoes,0.0,0.0,7098.65,1.0,7098.65,Luigi's Pizzeria
+2024-Q3,7.0,Cheese,0.0,0.0,1553.23,1.0,1553.23,Luigi's Pizzeria
+2024-Q3,8.0,Canned Tomatoes,0.0,0.0,6348.37,1.0,6348.37,Napoli Express
+2024-Q3,8.0,Cheese,0.0,0.0,2200.23,1.0,2200.23,Napoli Express
+2024-Q3,9.0,Pizza,0.0,0.0,2192.78,1.0,2192.78,Anna Müller
+2024-Q3,10.0,Pizza,0.0,0.0,3233.25,1.0,3233.25,Jean Dupont
+2024-Q4,3.0,Tomatoes,0.0,0.0,4432.67,1.0,4432.67,TomatoMagic Co.
+2024-Q4,4.0,Tomatoes,0.0,0.0,5352.86,1.0,5352.86,Farm2Can Ltd.
+2024-Q4,7.0,Canned Tomatoes,0.0,0.0,6574.0,1.0,6574.0,Luigi's Pizzeria
+2024-Q4,7.0,Cheese,0.0,0.0,2970.51,1.0,2970.51,Luigi's Pizzeria
+2024-Q4,8.0,Canned Tomatoes,0.0,0.0,7039.5,1.0,7039.5,Napoli Express
+2024-Q4,8.0,Cheese,0.0,0.0,2346.42,1.0,2346.42,Napoli Express
+2024-Q4,9.0,Pizza,0.0,0.0,3056.1,1.0,3056.1,Anna Müller
+2024-Q4,10.0,Pizza,0.0,0.0,1030.32,1.0,1030.32,Jean Dupont
+2025-Q1,3.0,Tomatoes,0.0,0.0,4992.39,1.0,4992.39,TomatoMagic Co.
+2025-Q1,4.0,Tomatoes,0.0,0.0,6815.21,1.0,6815.21,Farm2Can Ltd.
+2025-Q1,7.0,Canned Tomatoes,0.0,0.0,5196.16,1.0,5196.16,Luigi's Pizzeria
+2025-Q1,7.0,Cheese,0.0,0.0,2245.35,1.0,2245.35,Luigi's Pizzeria
+2025-Q1,8.0,Canned Tomatoes,0.0,0.0,4371.87,1.0,4371.87,Napoli Express
+2025-Q1,8.0,Cheese,0.0,0.0,2588.42,1.0,2588.42,Napoli Express
+2025-Q1,9.0,Pizza,0.0,0.0,3078.77,1.0,3078.77,Anna Müller
+2025-Q1,10.0,Pizza,0.0,0.0,3504.15,1.0,3504.15,Jean Dupont
+2025-Q2,3.0,Tomatoes,0.0,0.0,480.28,1.0,480.28,TomatoMagic Co.
+2025-Q2,4.0,Tomatoes,0.0,0.0,2336.81,1.0,2336.81,Farm2Can Ltd.
+2025-Q2,7.0,Canned Tomatoes,0.0,0.0,3678.33,1.0,3678.33,Luigi's Pizzeria
+2025-Q2,7.0,Cheese,0.0,0.0,1256.8,1.0,1256.8,Luigi's Pizzeria
+2025-Q2,8.0,Canned Tomatoes,0.0,0.0,2785.93,1.0,2785.93,Napoli Express
+2025-Q2,8.0,Cheese,0.0,0.0,958.65,1.0,958.65,Napoli Express
+2025-Q2,9.0,Pizza,0.0,0.0,1059.24,1.0,1059.24,Anna Müller
+2025-Q2,10.0,Pizza,0.0,0.0,1562.39,1.0,1562.39,Jean Dupont
