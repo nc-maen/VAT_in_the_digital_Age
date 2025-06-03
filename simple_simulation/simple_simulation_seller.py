@@ -50,9 +50,9 @@ for idx in range(1, NUM_TRANSACTIONS + 1):
         buyer_company_id = ''
         buyer_country = ''
 
-    # Realistisk fakturabeløb
-    quantity = np.round(np.random.uniform(1, 20), 2)
-    unit_price = np.round(np.random.uniform(10, 250), 2)
+
+    quantity = np.round(np.random.uniform(1, 10), 2)
+    unit_price = np.round(np.random.uniform(5, 20), 2)
     net_amount = np.round(quantity * unit_price, 2)
     vat_amount = np.round(net_amount * VAT_RATE, 2)
     total_amount = np.round(net_amount + vat_amount, 2)

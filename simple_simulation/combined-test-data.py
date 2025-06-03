@@ -52,10 +52,24 @@ combined.fillna({
 }, inplace=True)
 
 # Beregn VATForecast
-combined['VATForecast'] = (combined['SellerVAT'] - combined['BuyerVAT'])
+combined['VATForecast'] = (combined['SellerVAT'] - combined['BuyerVAT']).abs()
 
+# Tilføj VAT_Return med deterministisk afvigelse (±3 %)
+def compute_vat_return(row):
+    # Skab en nøgle baseret på firma og periode
+    key = str(row['CompanyID']) + row['CalcVATPeriod']
+    # Lav en deterministisk seed baseret på nøglen
+    seed = sum(ord(char) for char in key)
+    np.random.seed(seed)
+    # Generer en lille afvigelse mellem -3 % og +3 %
+    deviation_pct = np.random.uniform(-0.03, 0.03)
+    # Beregn og returner afviget VAT-beløb
+    return int(row['VATForecast'] * (1 + deviation_pct))
+
+# Anvend funktionen række for række
+combined['VAT_Return'] = combined.apply(compute_vat_return, axis=1)
 
 # Gem til fil
 combined.to_csv("combined_vat_forecast.csv", index=False)
-print("✅ CSV-fil gemt som 'combined_vat_forecast.csv'")
+print("CSV-fil saved as 'combined_vat_forecast.csv'")
 print(combined.head(10))
